@@ -10,11 +10,19 @@ This showcases my journey, projects, skills, and achievements.
 - Completed 12th grade from government school hostel (Model/Elite School, Corporation Rank Holder)
 
 ## Key Skills
-- Leadership
-- Entrepreneurship
-- Public Speaking
-- Singing
-- High Observing Skills
+- Leadership & Team Management
+
+- Entrepreneurship & Startup Ideation
+
+- Public Speaking & Communication
+
+- Creative Problem Solving
+
+- Critical Observation
+
+- Mobile App Concepts & UI Planning
+
+- Basic Python (self-learned using online platforms)
 
 ## Projects
 - [Quiz Master](https://github.com/lokpriyan) — A quiz application project hosted on GitHub.
